@@ -1,9 +1,9 @@
-// Write your code here
-import Login from './components/Login'
-import Logout from './components/Logout'
-import Message from './components/Message'
-
 import {Component} from 'react'
+
+import Login from '../Login'
+import Logout from '../Logout'
+import Message from '../Message'
+
 import './index.css'
 
 class Home extends Component {

@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.log-out {
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  color: #303150;
+  border-radius: 8px;
+  border-width: 0px;
+  background-color: #f8fafc;
+  height: 30px;
+  margin: 6px;
+  width: 200px;
+  padding: 5px;
+  align-self: center;
+  margin-right: 30px;
+}
